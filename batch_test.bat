@@ -6,5 +6,5 @@ ipconfig /all
 :: Check if google.com is reachable
 ping google.com
 :: Run a traceroute to check the route to geeksforgeeks.com
-tracert google.com
+tracert google.com >> C:\Users\akhth\Desktop\Cison_Jenkins_node1\wS\info.txt
 PAUSE
